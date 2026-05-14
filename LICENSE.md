@@ -1,4 +1,4 @@
-# 
+# automatic Polymarket Algorithm | sentiment-analysis + trailing-stops is the best Polymarket algorithm, featuring sentiment-analysis and trailing-stops. Smart, fast, and optimized
 
 
 
